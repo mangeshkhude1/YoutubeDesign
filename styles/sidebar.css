@@ -1,0 +1,49 @@
+.side-bar {
+    position: fixed;
+    left: 0;
+    top: 51px;
+    bottom: 0;
+    width: 72px;
+    background-color: white;
+    padding-top: 10px;
+    cursor: pointer;
+    z-index: 200;
+    max-height: 470px;
+    
+
+
+}
+.home-icon {
+   height: 74px;
+   font-family: Roboto, Arial;
+ 
+   justify-content: center;
+   vertical-align: center;
+   display: flex;
+   flex-direction: column;
+
+
+}
+.home-icon:hover {
+    background-color: rgb(235, 233, 233);
+}
+
+.home-icon-image {
+    
+    height: 24px;
+    
+    
+    
+    
+    
+}
+.home-icon div {
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: center;
+    
+    
+
+    
+   
+}
